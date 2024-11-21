@@ -1,0 +1,546 @@
+location_country,location_region,location_city,total_visitors,total_sessions
+United States,Iowa,Council Bluffs,1800,1800
+South Africa,Gauteng,Johannesburg,1118,1451
+South Africa,Western Cape,Cape Town,680,863
+South Africa,Gauteng,Pretoria,574,744
+United States,,,425,426
+South Africa,,,340,419
+South Africa,KwaZulu-Natal,Durban,218,290
+South Africa,Gauteng,Centurion,59,65
+United States,California,Los Angeles,63,64
+South Africa,Eastern Cape,Port Elizabeth,54,61
+United States,Virginia,Ashburn,61,61
+South Africa,Orange Free State,Bloemfontein,37,54
+Germany,,,51,51
+United States,Ohio,Columbus,48,48
+South Africa,Gauteng,Benoni,43,46
+United States,Illinois,Chicago,38,38
+United States,Oregon,Boardman,38,38
+United States,California,San Francisco,37,37
+United States,New York,Buffalo,34,34
+South Africa,Gauteng,Germiston,30,33
+South Africa,Gauteng,Kempton Park,26,32
+South Africa,Gauteng,Springs,24,29
+South Africa,Western Cape,Worcester,27,28
+South Africa,Gauteng,Boksburg,22,27
+United States,New York,New York,27,27
+India,National Capital Territory of Delhi,Delhi,21,25
+United States,North Carolina,Forest City,24,24
+India,,,23,23
+,,,19,23
+South Africa,Gauteng,Sandton,19,23
+South Africa,Gauteng,Midrand,15,22
+United States,South Carolina,North Charleston,21,21
+South Africa,Gauteng,Lenasia,18,19
+Ireland,Leinster,Clonee,17,17
+United States,Texas,Dallas,17,17
+South Africa,Mpumalanga,Nelspruit,14,17
+Botswana,Gaborone,Gaborone,11,17
+South Africa,Eastern Cape,East London,16,17
+United States,Colorado,Colorado Springs,17,17
+South Africa,KwaZulu-Natal,Margate,4,15
+South Africa,Gauteng,Krugersdorp,15,15
+Ireland,,,15,15
+South Africa,Mpumalanga,Emalahleni,12,15
+South Africa,Gauteng,Alberton,14,15
+South Africa,Western Cape,Paarl,13,14
+Germany,Saarland,St. Ingbert,14,14
+Germany,Saxony,Falkenstein,14,14
+Turkey,,,14,14
+South Africa,Gauteng,Vanderbijlpark,11,14
+United States,Oregon,The Dalles,13,13
+South Africa,Gauteng,Diepkloof Zone 5,9,13
+Germany,North Rhine-Westphalia,Sankt Augustin,13,13
+South Africa,Northern Cape,Kimberley,10,12
+United States,Oregon,Prineville,12,12
+South Africa,Gauteng,Devon,11,12
+South Africa,Gauteng,Randburg,8,12
+Bangladesh,Dhaka Division,Dhaka,12,12
+South Africa,North West,Potchefstroom,9,11
+South Africa,Western Cape,George,10,11
+South Africa,KwaZulu-Natal,Pietermaritzburg,8,11
+South Africa,Western Cape,Bellville,11,11
+Mauritius,Port Louis District,Port Louis,8,11
+South Africa,Western Cape,Somerset West,9,11
+South Africa,Western Cape,Vredenburg,8,11
+South Africa,Mpumalanga,Secunda,8,10
+South Africa,KwaZulu-Natal,Ballitoville,8,10
+United States,California,Santa Clara,10,10
+South Africa,North West,Rustenburg,10,10
+France,,,10,10
+South Africa,Gauteng,Roodepoort,10,10
+United States,California,Corona,9,9
+Mauritius,,,9,9
+South Africa,Gauteng,Vereeniging,4,9
+South Africa,Orange Free State,Sasolburg,8,9
+China,,,9,9
+United Kingdom,,,9,9
+United States,California,San Jose,9,9
+South Africa,Western Cape,De Doorns,3,9
+Germany,Hesse,Frankfurt am Main,8,8
+United States,New Jersey,Secaucus,8,8
+Singapore,,,7,8
+South Africa,North West,Klerksdorp,8,8
+Canada,Quebec,Montreal,8,8
+Bangladesh,,,6,8
+United States,Florida,Miami,7,7
+United States,Iowa,Altoona,7,7
+South Africa,Western Cape,Malmesbury,7,7
+India,Assam,Guwahati,7,7
+South Africa,Northern Cape,Upington,6,7
+South Africa,Western Cape,Manenberg,6,7
+Australia,New South Wales,Sydney,7,7
+South Africa,Western Cape,Stellenbosch,7,7
+Sweden,Norrbotten County,Luleå,7,7
+South Africa,Limpopo,Polokwane,7,7
+Georgia,K'alak'i T'bilisi,Tbilisi,7,7
+Spain,,,4,7
+Russia,Moscow,Moscow,6,6
+India,Uttar Pradesh,Lucknow,5,6
+Nigeria,Lagos,Lagos,5,6
+South Africa,Western Cape,Plettenberg Bay,6,6
+India,Telangana,Hyderabad,6,6
+South Africa,KwaZulu-Natal,Richards Bay,4,6
+South Africa,Western Cape,Villiersdorp,6,6
+Canada,Quebec,Beauharnois,6,6
+United Kingdom,England,London,6,6
+Russia,St.-Petersburg,St Petersburg,5,5
+Germany,Bavaria,Gunzenhausen,5,5
+United States,Virginia,Manassas,5,5
+Russia,,,5,5
+Lesotho,Maseru,Maseru,5,5
+Pakistan,Sindh,Karachi,5,5
+South Africa,Western Cape,Knysna,5,5
+Netherlands,North Holland,Amsterdam,5,5
+South Africa,Orange Free State,Senekal,1,5
+South Africa,Mpumalanga,Middelburg,5,5
+South Africa,Gauteng,Fourways,5,5
+Egypt,Cairo Governorate,Cairo,4,5
+South Africa,Eastern Cape,Mthatha,5,5
+Hong Kong,,,5,5
+South Africa,Western Cape,Wellington,5,5
+United States,California,,4,4
+South Africa,Western Cape,Brackenfell,4,4
+India,Tamil Nadu,Chennai,4,4
+South Africa,North West,Stilfontein,3,4
+India,Karnataka,Bengaluru,4,4
+India,Haryana,Gurgaon,3,4
+Thailand,Bangkok,Bangkok,3,4
+Spain,Madrid,Madrid,4,4
+South Africa,Gauteng,Sunnyside,3,4
+South Africa,North West,Brits,3,4
+Taiwan,Pingtung,Dahu,4,4
+United States,District of Columbia,Washington,4,4
+Algeria,,,4,4
+South Africa,Gauteng,Mogale City,4,4
+South Africa,North West,Hartbeespoort,3,4
+South Africa,Western Cape,Strand,4,4
+South Africa,Western Cape,Robertson,4,4
+Russia,Leningrad Oblast,Gatchina,4,4
+Estonia,Harjumaa,Maardu,4,4
+Pakistan,,,4,4
+India,Maharashtra,Mumbai,4,4
+South Africa,Eastern Cape,Jeffreys Bay,4,4
+Ghana,,,4,4
+South Africa,Gauteng,Brakpan,4,4
+Vietnam,Hanoi,Hanoi,4,4
+Madagascar,,,4,4
+Cambodia,Phnom Penh,Phnom Penh,4,4
+United States,Virginia,Tappahannock,3,3
+Pakistan,Punjab,Lahore,3,3
+Nigeria,,,3,3
+Namibia,Khomas Region,Windhoek,2,3
+Bulgaria,,,2,3
+Macao,,Macao,2,3
+South Africa,North West,Hammanskraal,2,3
+India,Maharashtra,Pune,3,3
+South Africa,Eastern Cape,Grahamstown,3,3
+Indonesia,South Sumatra,Lubuklinggau,1,3
+Mauritius,Black River District,Flic en Flac,1,3
+Greece,Attica,Athens,3,3
+Hungary,Budapest,Budapest,3,3
+Finland,Uusimaa,Helsinki,3,3
+South Africa,Gauteng,Sebokeng,1,3
+South Africa,KwaZulu-Natal,Vryheid,3,3
+India,Madhya Pradesh,Bhopal,3,3
+Uganda,Central Region,Kampala,3,3
+South Africa,North West,Zeerust,2,3
+South Africa,Western Cape,Table View,3,3
+United States,Washington,,3,3
+United States,Missouri,Kansas City,3,3
+South Africa,Gauteng,,3,3
+Morocco,Tanger-Tetouan-Al Hoceima,Tétouan,2,3
+Hong Kong,Central and Western District,Central,3,3
+India,Odisha,Banki,2,3
+Lebanon,,,2,3
+United States,Washington,Seattle,3,3
+India,Bihar,Patna,3,3
+South Africa,Western Cape,,2,3
+Ireland,Leinster,Dublin,3,3
+Indonesia,,,3,3
+Zimbabwe,Harare,Harare,3,3
+Zambia,,,2,2
+South Africa,Western Cape,Mossel Bay,2,2
+South Africa,Western Cape,Atlantis,2,2
+South Africa,Western Cape,Caledon,2,2
+South Africa,Western Cape,Hermanus,2,2
+South Africa,Western Cape,Ceres,2,2
+India,West Bengal,Kolkata,2,2
+South Africa,Western Cape,Oudtshoorn,2,2
+India,Union Territory of Puducherry,Puducherry,2,2
+India,Odisha,Bhubaneswar,2,2
+South Africa,Western Cape,Citrusdal,1,2
+India,National Capital Territory of Delhi,New Delhi,2,2
+South Africa,Western Cape,Grabouw,2,2
+South Africa,Western Cape,Southfield,1,2
+Ghana,Greater Accra Region,Accra,2,2
+South Africa,Mpumalanga,Standerton,2,2
+Moldova,Chișinău Municipality,Chisinau,2,2
+India,Uttar Pradesh,Kanpur,2,2
+Bhutan,Thimphu District,Thimphu,2,2
+South Africa,Northern Cape,Kathu,2,2
+South Africa,KwaZulu-Natal,Newcastle,2,2
+South Africa,KwaZulu-Natal,Empangeni,2,2
+South Africa,Northern Cape,Kuruman,2,2
+Kuwait,Al Asimah,Kuwait City,2,2
+Australia,Queensland,Brisbane,1,2
+South Africa,KwaZulu-Natal,oThongathi,2,2
+Portugal,Lisbon,Lisbon,2,2
+South Africa,KwaZulu-Natal,Scottburgh,2,2
+South Africa,KwaZulu-Natal,Gillitts,2,2
+South Africa,KwaZulu-Natal,Westville,2,2
+United States,Iowa,Des Moines,2,2
+Italy,Piedmont,Turin,2,2
+China,Shanghai,Shanghai,2,2
+United States,Texas,San Antonio,2,2
+United States,Nevada,North Las Vegas,2,2
+United States,Nevada,Las Vegas,2,2
+South Africa,Eastern Cape,Fort Beaufort,2,2
+South Africa,Eastern Cape,Barkly East,1,2
+South Africa,Eastern Cape,Queenstown,1,2
+United States,Wyoming,Cheyenne,2,2
+United States,California,El Cajon,2,2
+U.S. Virgin Islands,Saint Croix Island,Kingshill,2,2
+Guadeloupe,,Lamentin,2,2
+United Kingdom,England,Leicester,1,2
+United Kingdom,England,Plymouth,1,2
+United Kingdom,England,Leeds,1,2
+Canada,,,2,2
+Egypt,,,2,2
+Botswana,Ghanzi District,Dekar,2,2
+Iraq,,,2,2
+South Africa,Limpopo,Lephalale,1,2
+South Africa,Limpopo,Tzaneen,2,2
+Albania,,,2,2
+Timor-Leste,,,2,2
+Georgia,,,2,2
+Turkey,Istanbul,Istanbul,2,2
+Philippines,Metro Manila,Taguig,2,2
+Philippines,Western Visayas,Bacolod City,2,2
+Nigeria,FCT,Abuja,2,2
+Kenya,,,2,2
+Kenya,Nairobi,Nairobi,2,2
+Laos,,,1,2
+Afghanistan,Kabul,Kabul,2,2
+Belgium,Brussels Capital,Brussels,2,2
+Pakistan,Punjab,,2,2
+Guatemala,Guatemala,Guatemala City,2,2
+South Africa,Gauteng,Bryanston,2,2
+Finland,Uusimaa,Espoo,2,2
+South Africa,Gauteng,Walkerville,2,2
+South Africa,Gauteng,Heidelberg,2,2
+Morocco,Casablanca-Settat,Casablanca,2,2
+Morocco,,,1,2
+Sri Lanka,,,2,2
+South Africa,Gauteng,Bedfordview,2,2
+Norway,Oslo County,Oslo,2,2
+Japan,Tokyo,Tokyo,2,2
+South Africa,Gauteng,Tembisa,2,2
+Bangladesh,Rajshahi Division,Sirajganj,1,2
+South Africa,Gauteng,Edenvale,2,2
+Indonesia,West Java,Bogor,2,2
+Indonesia,West Java,Bandung,2,2
+Indonesia,North Sumatra,Medan,2,2
+South Africa,Gauteng,Gauteng,2,2
+Nepal,,,2,2
+South Africa,Gauteng,Nigel,2,2
+South Africa,Mpumalanga,Kinross,1,1
+The Netherlands,Utrecht,Utrecht,1,1
+South Africa,Orange Free State,Dewetsdorp,1,1
+India,Bihar,Nawada,1,1
+United States,Ohio,Cleveland,1,1
+India,Rajasthan,Jaipur,1,1
+United States,South Carolina,Moncks Corner,1,1
+South Africa,Western Cape,Greyton,1,1
+India,Maharashtra,,1,1
+South Africa,Eastern Cape,Ngqeleni,1,1
+South Africa,Eastern Cape,Lusikisiki,1,1
+South Africa,Eastern Cape,Bizana,1,1
+United Arab Emirates,Dubai,Dubai,1,1
+Serbia,Belgrade,Obrenovac,1,1
+United States,Illinois,Mendota,1,1
+United States,California,Berkeley,1,1
+Sri Lanka,Western Province,Dehiwala,1,1
+Germany,Baden-Wurttemberg,Freiburg im Breisgau,1,1
+Philippines,Calabarzon,General Trias,1,1
+South Africa,Gauteng,Nellmapius,1,1
+Vietnam,Ho Chi Minh,Ho Chi Minh City,1,1
+United States,Virginia,Covington,1,1
+Bangladesh,Chittagong,Brahmanbaria,1,1
+Ethiopia,,,1,1
+South Africa,Mpumalanga,White River,1,1
+United States,Utah,Ogden,1,1
+India,Rajasthan,Bhilwara,1,1
+Algeria,Algiers,Bab Ezzouar,1,1
+Germany,Free and Hanseatic City of Hamburg,Hamburg,1,1
+Nigeria,Edo,Benin City,1,1
+India,Himachal Pradesh,Shimla,1,1
+Pakistan,Punjab,Gujranwala,1,1
+South Africa,Gauteng,Glenmarais,1,1
+Cabo Verde,,,1,1
+South Africa,Western Cape,Rondebosch,1,1
+Romania,Caras-Severin,Reşiţa,1,1
+Saudi Arabia,Riyadh Region,Riyadh,1,1
+Nepal,Gandaki Pradesh,Pokhara,1,1
+Indonesia,Gorontalo,Gorontalo,1,1
+South Africa,Western Cape,Strandfontein,1,1
+United Kingdom,England,Abbots Langley,1,1
+India,Uttar Pradesh,Jaunpur,1,1
+United States,New Jersey,Hoboken,1,1
+South Africa,Mpumalanga,eMbalenhle,1,1
+Botswana,Kgatleng District,Mochudi,1,1
+Australia,Western Australia,Perth,1,1
+Zambia,Copperbelt,Luanshya,1,1
+Germany,Hesse,Hanau,1,1
+Hong Kong,Eastern,Eastern,1,1
+South Africa,Gauteng,Thembisa,1,1
+Philippines,Metro Manila,Quezon City,1,1
+South Africa,KwaZulu-Natal,Kloof,1,1
+Mozambique,Nampula,Nampula,1,1
+South Africa,Eastern Cape,Uitenhage,1,1
+Switzerland,Zurich,Zurich,1,1
+United States,North Carolina,Charlotte,1,1
+Pakistan,Punjab,Gujrat,1,1
+India,Haryana,Panipat,1,1
+Zimbabwe,Bulawayo,Bulawayo,1,1
+Italy,Lazio,Rome,1,1
+Tanzania,,,1,1
+India,Kerala,Trivandrum,1,1
+Romania,,,1,1
+Saudi Arabia,Eastern Province,Eastern Province,1,1
+Thailand,Khon Kaen,Khon Kaen,1,1
+South Africa,Western Cape,Sonstraal,1,1
+Malaysia,Perak,Ipoh,1,1
+Mauritius,Plaines Wilhems District,Beau Bassin-Rose Hill,1,1
+Russia,Rostov Oblast,Rostov-on-Don,1,1
+United States,California,North Hollywood,1,1
+Indonesia,West Java,Bekasi,1,1
+Sweden,Stockholm County,Sundbyberg,1,1
+South Africa,Northern Cape,Kakamas,1,1
+United Kingdom,Northern Ireland,Magherafelt,1,1
+South Africa,Free State,Bethlehem,1,1
+United States,California,Santa Monica,1,1
+Australia,New South Wales,,1,1
+United Kingdom,England,Liverpool,1,1
+Brazil,Paraná,Curitiba,1,1
+South Africa,Gauteng,Wilgeheuwel,1,1
+The Netherlands,Gelderland,Winterswijk,1,1
+United States,Georgia,Rockmart,1,1
+Germany,Saxony-Anhalt,Halle,1,1
+United Arab Emirates,,,1,1
+South Africa,Eastern Cape,Gonubie,1,1
+Iraq,Baghdad,Baghdad,1,1
+South Africa,Mpumalanga,Trichardt,1,1
+Hungary,Pest megye,Urom,1,1
+Canada,British Columbia,Victoria,1,1
+Belarus,Homyel’ Voblasc’,Zhytkavichy,1,1
+Germany,North Rhine-Westphalia,Düsseldorf,1,1
+Philippines,Ilocos,Calasiao,1,1
+Poland,,,1,1
+France,Île-de-France,Paris,1,1
+Mozambique,Cidade de Maputo,Maputo,1,1
+Philippines,Bicol,Naga,1,1
+South Africa,Orange Free State,Virginia,1,1
+United States,Michigan,South Lyon,1,1
+United States,Kentucky,Covington,1,1
+South Africa,Gauteng,Soweto,1,1
+South Africa,Gauteng,Vosloorus,1,1
+United Kingdom,Wales,,1,1
+South Africa,KwaZulu-Natal,Mtunzini,1,1
+Pakistan,Sindh,Dadu,1,1
+India,Haryana,Narayangarh,1,1
+Pakistan,Punjab,Kot Addu,1,1
+United States,North Carolina,Asheville,1,1
+Honduras,Francisco Morazán Department,Tegucigalpa,1,1
+India,Kerala,Kuttur,1,1
+Singapore,,Singapore,1,1
+Austria,Upper Austria,Linz,1,1
+Finland,North Ostrobothnia,Oulu,1,1
+India,Haryana,Hisar,1,1
+Tanzania,Dar es Salaam Region,Dar es Salaam,1,1
+Italy,Trentino-Alto Adige,Rovereto,1,1
+South Africa,Gauteng,Olifantsfontein,1,1
+South Africa,Eastern Cape,Aliwal North,1,1
+Czechia,Hlavni mesto Praha,Prague,1,1
+United States,Virginia,Boydton,1,1
+Romania,Bucuresti,Bucharest,1,1
+India,Gujarat,Jamnagar,1,1
+French Polynesia,,,1,1
+United States,Texas,Arp,1,1
+Thailand,Phra Nakhon Si Ayutthaya,Lat Bua Luang,1,1
+India,Kerala,Kollam,1,1
+Japan,,,1,1
+United States,Indiana,Indianapolis,1,1
+Malaysia,Kuala Lumpur,Kuala Lumpur,1,1
+South Africa,Western Cape,Durbanville,1,1
+Indonesia,Banten,Tangerang,1,1
+Mauritius,Flacq District,Centre de Flacq,1,1
+Russia,Kirov Oblast,Kirov,1,1
+Bangladesh,Mymensingh Division,Kushtia,1,1
+South Africa,Orange Free State,Parys,1,1
+Colombia,Departamento del Valle del Cauca,Santiago de Cali,1,1
+India,Madhya Pradesh,Sagar,1,1
+Nepal,Bagmati Province,Saptari,1,1
+Greece,Attica,Marousi,1,1
+Sweden,Stockholm County,Stockholm,1,1
+South Africa,KwaZulu-Natal,Ladysmith,1,1
+United States,California,Roseville,1,1
+Cambodia,,,1,1
+South Africa,Gauteng,Kwamhlanga,1,1
+India,Uttar Pradesh,Varanasi,1,1
+United Kingdom,England,York,1,1
+South Africa,Mpumalanga,Hendrina,1,1
+United States,California,Cupertino,1,1
+South Africa,Limpopo,Bela-Bela,1,1
+United Kingdom,England,Erith,1,1
+Brazil,Sao Paulo,Franco da Rocha,1,1
+United Kingdom,England,Harrogate,1,1
+India,Uttar Pradesh,Aligarh,1,1
+United States,New Jersey,Ridgefield Park,1,1
+South Africa,Mpumalanga,Bethalrand,1,1
+Canada,British Columbia,Burnaby,1,1
+South Africa,Northern Cape,Barkly West,1,1
+United States,Georgia,Hiram,1,1
+South Africa,Gauteng,Elandsfontein,1,1
+Canada,Quebec,Saint-Jerome,1,1
+India,Uttar Pradesh,Saharanpur,1,1
+Jordan,Amman Governorate,Amman,1,1
+Germany,Rheinland-Pfalz,Ingelheim,1,1
+United Arab Emirates,Abu Dhabi,Abu Dhabi,1,1
+South Africa,Limpopo,Thohoyandou,1,1
+Jordan,,,1,1
+South Africa,Mpumalanga,Barberton,1,1
+Isle of Man,,Isle of Man,1,1
+United Kingdom,England,Bristol,1,1
+Albania,Tirana,Tirana,1,1
+South Africa,KwaZulu-Natal,Chatsworth,1,1
+Algeria,Batna,Batna City,1,1
+Australia,Victoria,Melbourne,1,1
+Zambia,Lusaka Province,Lusaka,1,1
+Germany,North Rhine-Westphalia,Bochum,1,1
+Hong Kong,Tsuen Wan District,Kwai Chung,1,1
+South Africa,Orange Free State,Bothaville,1,1
+Bahrain,,,1,1
+South Africa,KwaZulu-Natal,Hillcrest,1,1
+Philippines,Calabarzon,Binangonan,1,1
+Egypt,Alexandria,Alexandria,1,1
+Philippines,Metro Manila,Las Piñas,1,1
+Lithuania,Vilnius,Vilnius,1,1
+Philippines,Metro Manila,San Juan,1,1
+India,Tamil Nadu,Coimbatore,1,1
+France,Île-de-France,Cormeilles-en-Parisis,1,1
+Bolivia,,,1,1
+France,Auvergne-Rhone-Alpes,Lyon,1,1
+South Africa,Northern Cape,Orania,1,1
+Dominican Republic,Provincia de Santo Domingo,Santo Domingo Este,1,1
+United States,Louisiana,Baton Rouge,1,1
+Nigeria,Rivers State,Port Harcourt,1,1
+Argentina,Santa Fe,Rosario,1,1
+Kenya,Nairobi County,Nairobi,1,1
+South Africa,KwaZulu-Natal,KwaDabeka,1,1
+Serbia,Belgrade,Belgrade,1,1
+South Africa,Gauteng,Erasmia,1,1
+Switzerland,,,1,1
+The Netherlands,Overijssel,Zwolle,1,1
+Switzerland,Vaud,Lausanne,1,1
+South Africa,Western Cape,Gansbaai,1,1
+Belgium,Wallonia,Enghien,1,1
+South Africa,KwaZulu-Natal,Nottingham Road,1,1
+Pakistan,Punjab,Rawalpindi,1,1
+India,Himachal Pradesh,Paonta Sahib,1,1
+South Africa,Gauteng,Bromhof,1,1
+South Africa,KwaZulu-Natal,Uvongo Beach,1,1
+Luxembourg,,,1,1
+South Africa,Western Cape,Eersterivier,1,1
+Israel,Tel Aviv,Tel Aviv,1,1
+Taiwan,Taipei City,Taipei,1,1
+New Zealand,Auckland,Auckland,1,1
+South Africa,Eastern Cape,,1,1
+Netherlands,,,1,1
+Austria,Vienna,Vienna,1,1
+South Korea,Seoul,Seocho-gu,1,1
+India,Haryana,Faridabad,1,1
+Finland,Uusimaa,Tuusula,1,1
+Italy,Emilia-Romagna,Castenaso,1,1
+Cabo Verde,São Domingos,,1,1
+India,Kerala,Kozhikode,1,1
+Denmark,Zealand,Holbaek,1,1
+Italy,,,1,1
+Tanzania,Kigoma,Kigoma,1,1
+South Africa,Western Cape,Swellendam,1,1
+Réunion,,Saint-Louis,1,1
+Italy,Lombardy,Seregno,1,1
+Sri Lanka,Western Province,Colombo,1,1
+South Africa,Limpopo,Haenertsburg,1,1
+Sri Lanka,Western Province,Piliyandala,1,1
+Italy,Lombardy,Milan,1,1
+Cameroon,North-West Region,Bamenda,1,1
+South Africa,Western Cape,Wilderness,1,1
+Romania,Iasi,Iasi,1,1
+United States,Virginia,,1,1
+Romania,Dolj,Craiova,1,1
+India,Kerala,Malappuram,1,1
+Venezuela,Nueva Esparta,Porlamar,1,1
+Saudi Arabia,Eastern Province,Dammam,1,1
+Ethiopia,Gambela,Gambela,1,1
+India,Gujarat,Ahmedabad,1,1
+Thailand,Pathum Thani,Thanyaburi,1,1
+United States,Texas,Fort Worth,1,1
+Armenia,,,1,1
+United States,Michigan,Rockford,1,1
+Japan,Tokyo,Katsushika,1,1
+Saudi Arabia,Mecca Region,Jeddah,1,1
+Japan,Hyōgo,Kobe,1,1
+South Africa,Western Cape,Vredendal,1,1
+Malaysia,Selangor,Petaling Jaya,1,1
+Saudi Arabia,Mecca Region,Ta'if,1,1
+Bangladesh,Rangpur Division,Mitapukur,1,1
+India,Kerala,Kochi,1,1
+Bangladesh,Rajshahi Division,Rajshahi,1,1
+Mauritius,Plaines Wilhems District,Vacoas,1,1
+Bangladesh,Khulna Division,Jessore,1,1
+South Africa,Western Cape,Bredasdorp,1,1
+South Africa,Gauteng,Meyerton,1,1
+United States,New York,Brooklyn,1,1
+Russia,Nizhny Novgorod Oblast,Nizhniy Novgorod,1,1
+Angola,Luanda Province,Luanda,1,1
+Jersey,,Jersey,1,1
+Indonesia,South Sulawesi,Makassar,1,1
+South Africa,Western Cape,Sedgefield,1,1
+Russia,Rostov Oblast,Novocherkassk,1,1
+South Africa,Mpumalanga,Kriel,1,1
+Russia,Omsk Oblast,Omsk,1,1
+India,Uttarakhand,Dehradun,1,1
+Russia,Voronezh Oblast,Voronezh,1,1
+Cameroon,Littoral,Douala,1,1
+Sweden,Uppsala County,OEsthammar,1,1
+India,Madhya Pradesh,Indore,1,1
+South Africa,Gauteng,Winchester Hills,1,1
+South Africa,Gauteng,Westonaria,1,1
+South Africa,Gauteng,Clayville,1,1
+Egypt,Qalyubia,Qalyubia,1,1
+Rwanda,Kigali,Kigali,1,1
+India,Punjab,Mohali,1,1
+South Africa,Western Cape,Paardeneiland,1,1
+United States,New York,Cooperstown,1,1
+Indonesia,Central Java,Boyolali,1,1
